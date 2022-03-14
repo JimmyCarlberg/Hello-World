@@ -137,7 +137,6 @@ input[type="submit"] {
         60px
         minmax(400px, auto)
         minmax(120px, auto)
-        minmax(120px, auto)
         160px
         ;
         grid-template-areas:
@@ -145,7 +144,6 @@ input[type="submit"] {
         "nav"
         "main"
         "sidebar"
-        "gallery"
         "footer"
         ;
     }
