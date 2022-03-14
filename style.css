@@ -148,6 +148,14 @@ input[type="submit"] {
         ;
     }
 
+    header {
+    flex-direction: column;
+    }
+    
+    aside {
+        max-width: none;
+    }
+
     section.gallery {
         grid-template-columns: repeat(2, 1fr);
     }
