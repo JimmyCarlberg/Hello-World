@@ -24,12 +24,11 @@ nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    border-top: crimson 1px solid;
-    border-bottom: crimson 1px solid;
+    border-top: hsl(348, 83%, 47%) 1px solid;
+    border-bottom: hsl(348, 83%, 47%) 1px solid;
     font-family: "Poppins", sans-serif;
     text-transform: uppercase;
     font-weight: 700;
-    
 }
 
 a {
